@@ -1,0 +1,11 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
